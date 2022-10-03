@@ -108,6 +108,7 @@ The specifications of our project are as follows:
 **Conclusion**
 This program is efficient in maintaining customer details and can easily perform operations on customer’s records and also works to handles the information of the products available in a canteen. This program also reduces the workload of the canteen.
  In future, this program can be launched as a website along with some alterations.
+
 ** 
 Reference**
 1. https://www.codewithc.com/c-projects-with-source-code/.
